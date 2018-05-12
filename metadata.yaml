@@ -22,6 +22,8 @@ creator:
     gutenberg_agent_id: '37251'
     url: http://www.gutenberg.org/2009/agents/37251
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33688#Tales-of-the-Wonder-Club-Volume-I
 gutenberg_issued: '2010-09-09'
 gutenberg_type: Text
 identifiers:

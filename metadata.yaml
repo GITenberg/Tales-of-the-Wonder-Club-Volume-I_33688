@@ -1,0 +1,42 @@
+_repo: Tales-of-the-Wonder-Club-Volume-I_33688
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Jellicoe, John
+    gutenberg_agent_id: '8935'
+    url: http://www.gutenberg.org/2009/agents/8935
+  - agent_name: Prince, Val R.
+    gutenberg_agent_id: '42158'
+    url: http://www.gutenberg.org/2009/agents/42158
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Halidom, M. Y.
+    aliases:
+    - Huth, Alexander
+    - Dryasdust
+    birthdate: 1838
+    deathdate: 1914
+    gutenberg_agent_id: '37251'
+    url: http://www.gutenberg.org/2009/agents/37251
+description: ''
+gutenberg_issued: '2010-09-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33688'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Paranormal fiction'
+- !lcsh 'Ghost stories'
+- !lcsh 'Horror tales'
+- !lcsh 'Storytelling -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Fantasy fiction'
+title: Tales of the Wonder Club, Volume I
+url: http://www.gutenberg.org/ebooks/33688
